@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "الجبل هو أنت",
+      "author": "بيانكا بودريك",
+      "category": "تطوير الذات",
+      "image_url": "https://raw.githubusercontent.com/dvmmahmoud/MaaKitab2/master/images/the%20mountain%20is%20you.jfif",
+      "youtube_url": "https://youtu.be/10gMaXSATgI",
+      "summary": "كيف تحول التخريب الذاتي إلى قوة دفع حقيقية للنجاح والتطور الشخصي."
+    },
+    {
+      "id": 2,
+      "title": "العادات السبع للناس الأكثر فعالية",
+      "author": "ستيفن كوفي",
+      "category": "الإنتاجية والإدارة",
+      "image_url": "https://raw.githubusercontent.com/dvmmahmoud/MaaKitab2/master/images/7%20habits.jfif",
+      "youtube_url": "https://youtu.be/CVGL49yH4uM",
+      "summary": "مبادئ أساسية لتغيير الحياة الشخصية والمهنية وتحقيق الكفاءة العالية."
+    },
+    {
+      "id": 3,
+      "title": "عقدك النفسية سجنك الأبدي",
+      "author": "يوسف آصف",
+      "category": "علم النفس",
+      "image_url": "https://raw.githubusercontent.com/dvmmahmoud/MaaKitab2/master/images/%D8%B9%D9%82%D8%AF%D9%83%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9.webp",
+      "youtube_url": "https://youtu.be/bsu8-7N5eyo",
+      "summary": "رحلة لاكتشاف العقد النفسية وكيفية التحرر منها لبناء حياة أكثر سلاماً."
+    },
+    {
+      "id": 4,
+      "title": "الذكاء العاطفي",
+      "author": "دانيال جولمان",
+      "category": "علم النفس وتطوير الذات",
+      "image_url": "https://raw.githubusercontent.com/dvmmahmoud/MaaKitab2/master/images/emotional%20intelligenc.jfif",
+      "youtube_url": "https://youtu.be/ZDXGu7Unapo",
+      "summary": "لماذا قد يكون الذكاء العاطفي أهم من الذكاء العقلي في تحقيق النجاح والسعادة."
+    },
+    {
+      "id": 5,
+      "title": "التأثير المركب",
+      "author": "دارين هاردي",
+      "category": "النجاح والمال والأعمال",
+      "image_url": "https://raw.githubusercontent.com/dvmmahmoud/MaaKitab2/master/images/the%20compound%20effect.jfif",
+      "youtube_url": "https://youtu.be/pkP4VTf2y0U",
+      "summary": "قوة الخيارات الصغيرة اليومية وكيف تتراكم لتصنع نتائج مذهلة على المدى الطويل."
+    }
+  ]
+}
